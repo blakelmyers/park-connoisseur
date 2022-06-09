@@ -1,0 +1,26 @@
+[
+    {
+      "id": 0,
+      "name": "O Day Park",
+      "imgUrl": "/static/oday.jpg",
+      "websiteUrl": "https://www.ofallon.mo.us/oday-park",
+      "address": "1000 O'Day Park Drive, O'Fallon, 63368",
+      "neighbourhood": "at King and Spadina"
+    },
+    {
+      "id": 1,
+      "name": "Dark Horse Coffee",
+      "imgUrl": "/static/hero-image.png",
+      "websiteUrl": "https://www.darkhorseespresso.com/",
+      "address": "401 Richmond St W",
+      "neighbourhood": "Richmond and Spadina"
+    },
+    {
+      "id": 300,
+      "name": "Route 300",
+      "imgUrl": "/static/hero-image.png",
+      "websiteUrl": "https://www.darkhorseespresso.com/",
+      "address": "401 Richmond St W",
+      "neighbourhood": "Route 300 Neighbourhood"
+    }
+  ]
