@@ -26,8 +26,8 @@ export default function Home() {
          <div className={styles.heroImage}>
           <Image
             src="/static/hero-image.png"
-            width={150}
-            height={150}
+            width={120}
+            height={120}
             alt="hero image"
           />
         </div>

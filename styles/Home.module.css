@@ -15,8 +15,8 @@
 
 .heroImage {
   position: absolute;
-  right: 10%;
-  top: 100px;
+  right: 5%;
+  top: 10px;
   z-index: 1;
 }
 
@@ -58,7 +58,7 @@
   }
   
   .heroImage {
-    right: 10%;
+    right: 5%;
   }
 
   .main {
@@ -101,7 +101,7 @@
     padding-right: 2rem /* 32px */;
   }
   .heroImage {
-    right: 10%;
+    right: 5%;
   }
   .cardLayout {
     grid-template-columns: repeat(3, minmax(0, 1fr));
