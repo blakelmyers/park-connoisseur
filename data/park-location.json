@@ -5,22 +5,22 @@
       "imgUrl": "/static/oday.jpg",
       "websiteUrl": "https://www.ofallon.mo.us/oday-park",
       "address": "1000 O'Day Park Drive, O'Fallon, 63368",
-      "neighbourhood": "at King and Spadina"
+      "neighbourhood": ""
     },
     {
       "id": 1,
-      "name": "Dark Horse Coffee",
-      "imgUrl": "/static/hero-image.png",
-      "websiteUrl": "https://www.darkhorseespresso.com/",
-      "address": "401 Richmond St W",
-      "neighbourhood": "Richmond and Spadina"
+      "name": "Kinetic Park",
+      "imgUrl": "/static/kinetic.jpg",
+      "websiteUrl": "https://www.sccmo.org/741/Kinetic-Park",
+      "address": "7801 Town Square Ave, Dardenne Prairie, MO 63368",
+      "neighbourhood": ""
     },
     {
-      "id": 300,
-      "name": "Route 300",
-      "imgUrl": "/static/hero-image.png",
-      "websiteUrl": "https://www.darkhorseespresso.com/",
-      "address": "401 Richmond St W",
-      "neighbourhood": "Route 300 Neighbourhood"
+      "id": 2,
+      "name": "BROEMMELSIEK PARK",
+      "imgUrl": "/static/brom.jpg",
+      "websiteUrl": "https://www.sccmo.org/617/Broemmelsiek-Park",
+      "address": "1795 Highway DD, Defiance, MO 63341",
+      "neighbourhood": ""
     }
   ]
